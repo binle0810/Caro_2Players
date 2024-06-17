@@ -1,0 +1,8 @@
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.SuggestedBindingRedirects.cache
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\Bài tập c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
